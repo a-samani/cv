@@ -1,14 +1,15 @@
 title: Your awesome title
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Ali Samani
+  email: a.samani@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Python developer with 3 years of experience in developing and
+  maintaining web applications using Django and FastAPI, And a
+  Machine learning and AI enthusiast with a keen interest in exploring
+  their transformative potential in solving real-world challenges
 
 # Build settings
 
